@@ -1,13 +1,15 @@
 # Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training Debiasing
 
 ## Paper
-If you use this code in your research, please cite the following publication:
+If you use this code in your research, please cite the following publication: [https://arxiv.org/abs/2108.12510](https://arxiv.org/abs/2108.12510)
 ```
-TODO
+@article{gowda2021pulling,
+  title={Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training Debiasing},
+  author={Sindhu C.M. Gowda and Shalmali Joshi and Haoran Zhang and Marzyeh Ghassemi},
+  journal={arXiv preprint arXiv:2108.12510},
+  year={2021}
+}
 ```
-
-This paper can also be found on arxiv: TODO
-
 
 ## To replicate the experiments in the paper:
 
